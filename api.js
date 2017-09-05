@@ -57,4 +57,3 @@ module.exports = (app, express) => {
     }
   });
 }
-console.log('THIS IS MY STORE: ', storage.defaultInstance.data)
